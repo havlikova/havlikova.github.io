@@ -127,5 +127,6 @@ Pravidelné přispívání články / blogy do jednotlivých daných kategorií.
 [Šárka](mailto:448843@mail.muni.cz)
 
 [Adam](mailto:449907@mail.muni.cz)
+
 [Kristýna](mailto:448856@mail.muni.cz)
 
