@@ -6,17 +6,30 @@ permalink: /about/
 
 ### Informace k projektu
 
+
+
+
 ##### Cilové skupiny
 
 Zaměření převážně na turisty s všeobecným kulturním a historickým přehledem.
+
+
+
+
 
 ##### Cíl webu
 
 Netradiční formou budeme představovat památky, přírodní dědictví a historické kapitoly Vysočiny. Pokusíme se prezentovat Vysočinu nejen pouhým výčtem faktů, ale i zajímavostmi, názory a nadsázkou. V konečném výsledku bychom rádi viděli také prostor pro diskusi a komentáře turistů, návštěvníků a kverulantů.
 
+
+
+
 ##### Název
 
 VysočinaFlow
+
+
+
 
 ##### Webové zdroje
 
@@ -38,6 +51,9 @@ Stránky se zaměřením na historii
 
 Weby jednotlivých památek
 
+
+
+
 ##### Zásadní ne-webové zdroje
 
 Turistické průvodce
@@ -47,6 +63,9 @@ Mapy
 Osobní zkušenosti
 
 kniha Kam na Vysočině : http://www.databazeknih.cz/knihy/kam-na-vysocine-95791
+
+
+
 
 ##### Dostupná multimédia
 
@@ -58,9 +77,16 @@ rajče.net
 
 youtube videa
 
+
+
+
+
 ##### Vizuální inspirace webu
 
 Po vizuální stránce si chceme vzít příklad z webu - kudyznudy.cz
+
+
+
 
 ##### Základní obsah k tématu
 
@@ -78,7 +104,7 @@ Po vizuální stránce si chceme vzít příklad z webu - kudyznudy.cz
 
 - vstupné
 
-- muzea + Osobnosti (z) Vysočiny
+- muzea a osobnosti (z) Vysočiny
 
 - vybrané historické kapitoly Vysočiny
 
@@ -87,9 +113,13 @@ Po vizuální stránce si chceme vzít příklad z webu - kudyznudy.cz
 - informace o autorech webu 
 
 
+
+
 ##### Strategie zveřejňování
 
 Pravidelné přispívání články / blogy do jednotlivých daných kategorií. V konečném výsledku bychom chtěli důraz na komunitní funkce.
+
+
 
 
 ### Kontakty
@@ -97,3 +127,5 @@ Pravidelné přispívání články / blogy do jednotlivých daných kategorií.
 [Šárka](mailto:448843@mail.muni.cz)
 
 [Adam](mailto:449907@mail.muni.cz)
+[Kristýna](mailto:448856@mail.muni.cz)
+
